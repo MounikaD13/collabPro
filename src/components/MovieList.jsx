@@ -51,7 +51,6 @@ export default function MovieList() {
               ))}
             </div>
           </div>
-
         )
       }
     </div>
