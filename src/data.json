@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Pokiri",
+        "category": "Action",
+        "year": 2006
+    },
+    {
+        "id": 2,
+        "name": "Athadu",
+        "category": "Action",
+        "year": 2005
+    },
+    {
+        "id": 3,
+        "name": "Mirchi",
+        "category": "Rom-Action",
+        "year": 2013
+    },
+    {
+        "id": 4,
+        "name": "Ready",
+        "category": "Comedy",
+        "year": 2008
+    },
+    {
+        "id": 5,
+        "name": "Maska",
+        "category": "Rom-Action",
+        "year": 2009
+    },
+    {
+        "id": 6,
+        "name": "Anand",
+        "category": "Rom",
+        "year": 2004
+    },
+    {
+        "id": 7,
+        "name": "Godavari",
+        "category": "rom",
+        "year": 2006
+    },
+    {
+        "id": 8,
+        "name": "Happy Days",
+        "category": "Rom-Com",
+        "year": 2007
+    },
+    {
+        "id": 9,
+        "name": "Bahubali",
+        "category": "Historic",
+        "year": 2015
+    },
+    {
+        "id": 10,
+        "name": "bussiness-man",
+        "category": "Action",
+        "year": 2012
+    }
+]
