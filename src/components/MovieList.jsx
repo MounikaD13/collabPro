@@ -40,9 +40,11 @@ export default function MovieList() {
                 <div key={i.id} className="col-md-4">
                   <div className="card h-100 shadow-sm">
                     <div className="card-body">
-                      <h5 className="card-title">{i.name}</h5>
-                      <p className="card-text"><strong>Year:</strong> {i.year}</p>
-                      <p className="card-text"><strong>Category:</strong> {i.category}</p>
+                      <h5>{i.name}</h5>
+                      <p>
+                        <strong>Year:</strong> {i.year} <br /> 
+                        <strong>Category:</strong>{i.category}
+                      </p>
                     </div>
                   </div>
                 </div>
